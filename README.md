@@ -13,7 +13,7 @@ git clone https://github.com/JuanCHerreraPro/MiPaginaWeb.git
 ### Pre-requisitos 📋
 
 Lo que necesitas para su implementación es 
-1. Instalar Node.js, si es posible, la versión más acutual(https://nodejs.org/es/)
+1. Instalar Node.js, si es posible, la versión más acutual (https://nodejs.org/es/)
 2. Instalar NPM 
 3. Instalar Vue.js (https://vuejs.org/v2/guide/installation.html)
 
@@ -26,9 +26,10 @@ Instalar todo lo requerido por el proyecto con
 ```bash
  npm install
 ```
+Inicializar el proyecto con
 
 ```bash
-npm run 
+npm run serve
 ```
 
 
