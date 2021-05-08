@@ -117,7 +117,7 @@
         descargar(){
           axios({
                 method: 'get',
-                url: 'https://bucket-para-pagina.s3.us-east-2.amazonaws.com/Juan+Carlos+Herrera+Pro+CV+ES.pdf',
+                url: 'https://mercsolutionbucket.s3.us-west-1.amazonaws.com/JuanCarlosHerreraPro-609705edd62de30023976126-cv.pdf',
                 responseType: 'arraybuffer'
             })
             .then(response => {

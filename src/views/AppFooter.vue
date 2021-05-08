@@ -9,7 +9,7 @@
                 </div>
                 <div class="col-lg-6 text-lg-center btn-wrapper">
                    
-                    <a target="_blank" rel="noopener" href="https://github.com/nullstudioJuan?tab=overview&from=2021-01-01&to=2021-01-29"
+                    <a target="_blank" rel="noopener" href="https://github.com/JuanCHerreraPro"
                        class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Star on Github">
                         <i class="fa fa-github"></i>
@@ -33,11 +33,11 @@
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <i class="fas fa-mobile fa-2x"></i>
-                        <p>+52 5565569870</p>
+                        <p>+52 2222388168</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <i class="fas fa-envelope fa-2x"></i>
-                        <p>null.studio@gmail.com</p>
+                        <p>juancpro2626@hotmail.com</p>
                     </div>
                 </div>
 
@@ -48,7 +48,7 @@
                 </div>
 
                 <div class="copyright">
-                    <p>Copyright © 2019 NullStudio - All rights reserved.</p>
+                    <p>Copyright © 2021 Juan C. Herrera Pro o - All rights reserved.</p>
                 </div>
             </div>
            
